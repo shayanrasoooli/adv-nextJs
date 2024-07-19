@@ -3,5 +3,14 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
-  return
+  return (
+    <div className={styles.container}>
+      <Head>
+        <title>shayan NextJs</title>
+        <meta name='description' content='' />
+      </Head>
+
+      <h1>salam</h1>
+    </div>
+  )
 }
