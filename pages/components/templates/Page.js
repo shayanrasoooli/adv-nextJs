@@ -1,9 +1,11 @@
 import React from 'react'
-import Button from '@/element/Button'
+// import Button from '@/element/Button'
 
 function Page() {
   return (
-    <div><Button></Button></div>
+    <>
+    </>
+    // <div><Button></Button></div>
   )
 }
 
